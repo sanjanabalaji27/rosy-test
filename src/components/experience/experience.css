@@ -73,7 +73,7 @@
    
   .experience__list-icon {
     flex-shrink: 0;
-    width: 5%;
+    width: 10%;
     color: var(--color-primary);
     margin-top: 2px;
   }
